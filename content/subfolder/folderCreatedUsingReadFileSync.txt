@@ -1,0 +1,4 @@
+this text is added using readfilesync : animal={name:'lol',
+age:34};
+
+second file,first text file

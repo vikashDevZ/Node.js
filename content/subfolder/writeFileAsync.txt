@@ -1,0 +1,4 @@
+it is edited by async first text file,animal={name:'lol',
+age:34};
+
+second file
