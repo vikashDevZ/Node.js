@@ -1,7 +1,8 @@
 const http = require('http')
 
-const server=http.createServer((req,res)=>{
+const server=http.createServer((req,res)=>{             //this is syncronous way :(
     if(req.url=='/'){
+        console.log('hello')
         res.end('welcome to the home page')
         return
     }
@@ -17,7 +18,4 @@ const server=http.createServer((req,res)=>{
 })
 
 
-server.listen(5001);
-
-
-
+server.listen(5000,()=>console.log('server is running on port 5000'));

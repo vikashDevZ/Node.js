@@ -1,0 +1,7 @@
+This is edited and creatded using file promise method please revise :( \	 animal={name:'lol',
+age:34};
+
+second file first text fileThis is edited and creatded using file promise method please revise :( \	 animal={name:'lol',
+age:34};
+
+second file first text file
